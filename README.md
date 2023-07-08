@@ -1,1 +1,1 @@
-# 2048.github.io
+# solo disponible para pc
